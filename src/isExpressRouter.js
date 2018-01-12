@@ -2,6 +2,7 @@ const methods = require('express-router-methods')
 const isFunction = require('is-function')
 const isDefined = require('./isDefined')
 
+/* eslint-disable */
 /**
  * @description :: Checking if the passed in argument is a function created by express.Router()
  * @param {Any} arg :: Argument to check

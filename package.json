@@ -1,6 +1,6 @@
 {
   "name": "is-express-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checking if an argument is an express Router function from express.Router() (like router.get(), router.post(), ..)",
   "keywords": [
     "express",
@@ -18,6 +18,7 @@
     "chai": "^4.1.2",
     "eslint": "^4.15.0",
     "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-prettier": "^2.4.0",
     "express": "^4.16.2",
     "mocha": "^4.1.0",
